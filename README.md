@@ -56,6 +56,8 @@ Install latest version of yarn or npm
 1. After cloning the project, install packages
    ```sh
    yarn install
+   then
+   yarn install:cs
    ```
 2. To start the development server
    ```sh
@@ -89,8 +91,7 @@ Install latest version of yarn or npm
 
 ## Issues and Limitations
 
-- Message will not send on keyboard 'Enter' and will not clear input field upon sending the message(require manual delete)
-- Overall CSS styling improvement required
+- Message will not clear input field upon sending the message(require manual delete)
 
 ## Feature Improvements
 
@@ -100,12 +101,11 @@ Install latest version of yarn or npm
 
     - Error handling
     - Use environment variables (process.env)
-    - Responsive design layout (mobile, etc)
-    - Improve test structure
+    - Responsive design layout (mobile friendly, etc)
     - Style enhancements
 
 <br />
 
-- Future implementation
+- Future implementation to consider
   - Authentication
   - DB integration
