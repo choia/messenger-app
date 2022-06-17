@@ -89,7 +89,7 @@ Install latest version of yarn or npm
 
 ## Issues and Limitations
 
-- Message will not send on keyboard 'Enter' and will not clear upon sending the message
+- Message will not send on keyboard 'Enter' and will not clear input field upon sending the message(require manual delete)
 - Overall CSS styling improvement required
 
 ## Feature Improvements
