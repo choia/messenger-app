@@ -1,0 +1,14 @@
+{
+  "name": "messenger-app-project",
+  "author": "Alex Choi",
+  "description": "Simple Messenger Application",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^7.2.2"
+  },
+  "scripts": {
+    "start": "concurrently \"cd messenger-server && yarn start\" \"cd messenger-client && yarn start\" "
+  }
+}
