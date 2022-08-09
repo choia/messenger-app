@@ -3,7 +3,7 @@
   <h1 align="center">Lets Chat! - Simple Messenger App</h1>
   <img src="joinroom.png" alt="Chat Screenshot">
   <p align="center">
-    Simple messenger application for coding challenge project
+    Simple messenger application
     <br /><br />
   </p>
 </p>
